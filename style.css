@@ -1,8 +1,15 @@
 body{
-  font-family: Arial, sans-serif;
+  font-family: Plus Jakarta Sans, sans-serif;
   margin: 0;
   padding: 0;
   background: #dddddd;
+}
+
+.plus-jakarta-sans-<uniquifier> {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 header{
@@ -46,7 +53,7 @@ nav a:hover{
 }
 
 footer{
-  background-color: #333333;
+  background-color: dodgerblue;
   color: white;
   text-align: center;
   padding: 10px;
